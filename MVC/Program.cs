@@ -11,6 +11,9 @@ namespace MVC
 {
     public class Program
     {
+        // M ( Model      )  : DATA
+        // V ( View       )  : UI
+        // C ( Controller )  : ACTION
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
