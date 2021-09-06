@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace Razor
 {
+    // M
+    // VC
+    // M - V - VM
+    // (MODEL, VIEW, VIEW MODEL)
     public class Program
     {
         public static void Main(string[] args)
