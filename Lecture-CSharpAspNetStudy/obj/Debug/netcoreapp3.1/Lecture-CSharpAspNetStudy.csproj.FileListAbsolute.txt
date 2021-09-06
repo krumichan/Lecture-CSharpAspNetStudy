@@ -21,13 +21,4 @@ C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharp
 C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.genruntimeconfig.cache
 C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.Views.dll
 C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\bin\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.Views.pdb
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.RazorAssemblyInfo.cache
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.RazorAssemblyInfo.cs
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.TagHelpers.input.cache
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.TagHelpers.output.cache
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.RazorCoreGenerate.cache
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.RazorTargetAssemblyInfo.cs
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.Views.pdb
 C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Lecture-CSharpAspNetStudy.csproj.CopyComplete
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\developer\unityws\lecture\web server\Lecture-CSharpAspNetStudy\Lecture-CSharpAspNetStudy\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
