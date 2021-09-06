@@ -9,6 +9,12 @@ using System.Threading.Tasks;
 
 namespace WebAPI
 {
+    // M
+    // C
+
+    // View는 없는데,
+    // 이는 해당 API를 호출하는 곳에서 알아서 그리라는 뜻이다.
+
     public class Program
     {
         public static void Main(string[] args)
